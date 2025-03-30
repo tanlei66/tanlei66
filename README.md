@@ -10,3 +10,7 @@
 tanlei66/tanlei66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+- [tanlei66] (https://github.com/tanlei66)## 我的版本
+这是我基于 tanlei66/first 项目的改编版本。我添加了自己的名字，并学习了如何使用 GitHub。
+- 改编者：tanlei66
+- 日期：2025年3月30日
